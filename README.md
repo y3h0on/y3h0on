@@ -5,7 +5,8 @@
 
 
 
-https://img.shields.io/badge/major-CS-blue
+![HTML5](https://img.shields.io/badge/Rutger_University-NewBrunswick-blue)
+![HTML5](https://img.shields.io/badge/major-CS-blue)
 
 <!--
 **y3h0on/y3h0on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
