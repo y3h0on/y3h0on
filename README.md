@@ -1,6 +1,7 @@
-### Hi there 👋
+👋
 <img align="right" src="KakaoTalk_20231126_223219503.jpg" width="300"/>
-<h1>Hi, I'm Yehun Kim </h1>
+<h1 style="font-size: 7px">Hi, I'm Yehun Kim </h1>
+<span>INFO</span>
 
 
 
