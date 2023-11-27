@@ -1,5 +1,6 @@
 ### Hi there 👋
-<h1>Hi, I'm Yehun Kim</h1>
+<img align="right" src = "" width="300/>
+<h1>Hi, I'm Yehun Kim <img src = "" height = "180"></h1>
 
 <!--
 **y3h0on/y3h0on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
