@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<h1>Hi, I'm Yehun Kim <img src = "KakaoTalk_20231126_223219503.jpg" height = "180"></h1>
+<img align="right" src="KakaoTalk_20231126_223219503.jpg" width="300"/>
+<h1>Hi, I'm Yehun Kim </h1>
 
 <!--
 **y3h0on/y3h0on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
